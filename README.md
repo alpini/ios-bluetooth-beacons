@@ -14,4 +14,6 @@ Uses [Estimote SDK](https://github.com/Estimote/iOS-SDK) v4.14.1.
 
 ## Installation Instructions
 
-You will need [Xcode](https://developer.apple.com/xcode/) to install this application your device.
+1. You will need [Xcode](https://developer.apple.com/xcode/) to install this application your device.
+
+2. Open the .xcodeproj in Xcode and, while your iOS device is plugged into your computer, click the 'play' button in the toolbar. The application will then be installed on your device.
